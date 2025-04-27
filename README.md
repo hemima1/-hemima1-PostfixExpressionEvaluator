@@ -9,3 +9,4 @@ The app automatically converts the infix expression into **postfix notation** (R
 - **Error Handling**: Detects and reports invalid inputs gracefully.
 - **Interactive GUI**: Simple and intuitive user interface built with Java Swing.
 
+![App Screenshot](output.jpg)
